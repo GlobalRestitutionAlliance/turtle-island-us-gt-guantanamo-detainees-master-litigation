@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-guantanamo-detainees-canal-and-intervention-historian
-  name: Guantanamo Detainees Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-guantanamo-detainees-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_gt_001
+    name: Guantanamo Detainees Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_002
+    name: Guantanamo Detainees Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_003
+    name: Guantanamo Detainees Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_004
+    name: Guantanamo Detainees Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_005
+    name: Guantanamo Detainees Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_006
+    name: Guantanamo Detainees Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_007
+    name: Guantanamo Detainees Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_008
+    name: Guantanamo Detainees Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_009
+    name: Guantanamo Detainees Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_010
+    name: Guantanamo Detainees Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_011
+    name: Guantanamo Detainees Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_012
+    name: Guantanamo Detainees Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_013
+    name: Guantanamo Detainees Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_014
+    name: Guantanamo Detainees Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_015
+    name: Guantanamo Detainees Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_016
+    name: Guantanamo Detainees Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_017
+    name: Guantanamo Detainees Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_018
+    name: Guantanamo Detainees Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_019
+    name: Guantanamo Detainees Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_020
+    name: Guantanamo Detainees Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_021
+    name: Guantanamo Detainees Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_022
+    name: Guantanamo Detainees Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_023
+    name: Guantanamo Detainees Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_024
+    name: Guantanamo Detainees Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_025
+    name: Guantanamo Detainees Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_026
+    name: Guantanamo Detainees Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_027
+    name: Guantanamo Detainees Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_028
+    name: Guantanamo Detainees Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_029
+    name: Guantanamo Detainees Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_030
+    name: Guantanamo Detainees Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_031
+    name: Guantanamo Detainees Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_032
+    name: Guantanamo Detainees Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_033
+    name: Guantanamo Detainees Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_034
+    name: Guantanamo Detainees Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_035
+    name: Guantanamo Detainees Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_036
+    name: Guantanamo Detainees Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_037
+    name: Guantanamo Detainees Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_038
+    name: Guantanamo Detainees Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_039
+    name: Guantanamo Detainees Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_040
+    name: Guantanamo Detainees Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_041
+    name: Guantanamo Detainees Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_042
+    name: Guantanamo Detainees Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_043
+    name: Guantanamo Detainees Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_044
+    name: Guantanamo Detainees Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_045
+    name: Guantanamo Detainees Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_046
+    name: Guantanamo Detainees Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_047
+    name: Guantanamo Detainees Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_048
+    name: Guantanamo Detainees Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_049
+    name: Guantanamo Detainees Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_050
+    name: Guantanamo Detainees Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_051
+    name: Guantanamo Detainees Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_052
+    name: Guantanamo Detainees Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_053
+    name: Guantanamo Detainees Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_054
+    name: Guantanamo Detainees Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_055
+    name: Guantanamo Detainees Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_056
+    name: Guantanamo Detainees Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_057
+    name: Guantanamo Detainees Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_058
+    name: Guantanamo Detainees Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_059
+    name: Guantanamo Detainees Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_060
+    name: Guantanamo Detainees Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_061
+    name: Guantanamo Detainees Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_062
+    name: Guantanamo Detainees Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_063
+    name: Guantanamo Detainees Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_064
+    name: Guantanamo Detainees Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_065
+    name: Guantanamo Detainees Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_066
+    name: Guantanamo Detainees Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_067
+    name: Guantanamo Detainees Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_068
+    name: Guantanamo Detainees Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_069
+    name: Guantanamo Detainees Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_070
+    name: Guantanamo Detainees Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_071
+    name: Guantanamo Detainees Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_072
+    name: Guantanamo Detainees Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_073
+    name: Guantanamo Detainees Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_074
+    name: Guantanamo Detainees Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_075
+    name: Guantanamo Detainees Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_076
+    name: Guantanamo Detainees Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_077
+    name: Guantanamo Detainees Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_078
+    name: Guantanamo Detainees Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_079
+    name: Guantanamo Detainees Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_080
+    name: Guantanamo Detainees Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_081
+    name: Guantanamo Detainees Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_082
+    name: Guantanamo Detainees Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_083
+    name: Guantanamo Detainees Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_084
+    name: Guantanamo Detainees Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_085
+    name: Guantanamo Detainees Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_086
+    name: Guantanamo Detainees Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_087
+    name: Guantanamo Detainees Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_088
+    name: Guantanamo Detainees Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_089
+    name: Guantanamo Detainees Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_090
+    name: Guantanamo Detainees Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_091
+    name: Guantanamo Detainees Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_092
+    name: Guantanamo Detainees Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_093
+    name: Guantanamo Detainees Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_094
+    name: Guantanamo Detainees Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_095
+    name: Guantanamo Detainees Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_096
+    name: Guantanamo Detainees Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_097
+    name: Guantanamo Detainees Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_098
+    name: Guantanamo Detainees Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_099
+    name: Guantanamo Detainees Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_100
+    name: Guantanamo Detainees Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_101
+    name: Guantanamo Detainees Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_102
+    name: Guantanamo Detainees Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_103
+    name: Guantanamo Detainees Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_104
+    name: Guantanamo Detainees Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_105
+    name: Guantanamo Detainees Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_106
+    name: Guantanamo Detainees Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_107
+    name: Guantanamo Detainees Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_108
+    name: Guantanamo Detainees Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_109
+    name: Guantanamo Detainees Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_110
+    name: Guantanamo Detainees Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_111
+    name: Guantanamo Detainees Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_112
+    name: Guantanamo Detainees Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_113
+    name: Guantanamo Detainees Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_114
+    name: Guantanamo Detainees Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_115
+    name: Guantanamo Detainees Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_116
+    name: Guantanamo Detainees Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_117
+    name: Guantanamo Detainees Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_118
+    name: Guantanamo Detainees Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_119
+    name: Guantanamo Detainees Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_120
+    name: Guantanamo Detainees Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_121
+    name: Guantanamo Detainees Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_122
+    name: Guantanamo Detainees Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_123
+    name: Guantanamo Detainees Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_124
+    name: Guantanamo Detainees Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_125
+    name: Guantanamo Detainees Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_126
+    name: Guantanamo Detainees Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_127
+    name: Guantanamo Detainees Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_128
+    name: Guantanamo Detainees Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_129
+    name: Guantanamo Detainees Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_130
+    name: Guantanamo Detainees Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_131
+    name: Guantanamo Detainees Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_132
+    name: Guantanamo Detainees Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_133
+    name: Guantanamo Detainees Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_134
+    name: Guantanamo Detainees Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_135
+    name: Guantanamo Detainees Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_136
+    name: Guantanamo Detainees Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_137
+    name: Guantanamo Detainees Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_138
+    name: Guantanamo Detainees Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_139
+    name: Guantanamo Detainees Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_140
+    name: Guantanamo Detainees Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_141
+    name: Guantanamo Detainees Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_142
+    name: Guantanamo Detainees Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_143
+    name: Guantanamo Detainees Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_144
+    name: Guantanamo Detainees Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_145
+    name: Guantanamo Detainees Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_146
+    name: Guantanamo Detainees Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_147
+    name: Guantanamo Detainees Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_148
+    name: Guantanamo Detainees Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_149
+    name: Guantanamo Detainees Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_150
+    name: Guantanamo Detainees Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_151
+    name: Guantanamo Detainees Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_152
+    name: Guantanamo Detainees Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_153
+    name: Guantanamo Detainees Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_154
+    name: Guantanamo Detainees Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_155
+    name: Guantanamo Detainees Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_156
+    name: Guantanamo Detainees Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_157
+    name: Guantanamo Detainees Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_158
+    name: Guantanamo Detainees Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_159
+    name: Guantanamo Detainees Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_160
+    name: Guantanamo Detainees Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_161
+    name: Guantanamo Detainees Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_162
+    name: Guantanamo Detainees Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_163
+    name: Guantanamo Detainees Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_164
+    name: Guantanamo Detainees Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_165
+    name: Guantanamo Detainees Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_166
+    name: Guantanamo Detainees Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_167
+    name: Guantanamo Detainees Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_168
+    name: Guantanamo Detainees Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_169
+    name: Guantanamo Detainees Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_gt_170
+    name: Guantanamo Detainees Agent 170
+    status: ACTIVE_SCAFFOLD

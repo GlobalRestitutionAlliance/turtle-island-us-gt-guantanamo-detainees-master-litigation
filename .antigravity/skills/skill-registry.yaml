@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: guantanamo-detaineesian-restitution-roadmap-and-qsf-trust-execution
-  name: Guantanamo Detaineesian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/guantanamo-detaineesian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_gt_001
+    name: Guantanamo Detainees Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_002
+    name: Guantanamo Detainees Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_003
+    name: Guantanamo Detainees Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_004
+    name: Guantanamo Detainees Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_005
+    name: Guantanamo Detainees Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_006
+    name: Guantanamo Detainees Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_007
+    name: Guantanamo Detainees Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_008
+    name: Guantanamo Detainees Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_009
+    name: Guantanamo Detainees Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_010
+    name: Guantanamo Detainees Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_011
+    name: Guantanamo Detainees Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_012
+    name: Guantanamo Detainees Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_013
+    name: Guantanamo Detainees Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_014
+    name: Guantanamo Detainees Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_015
+    name: Guantanamo Detainees Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_016
+    name: Guantanamo Detainees Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_017
+    name: Guantanamo Detainees Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_018
+    name: Guantanamo Detainees Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_019
+    name: Guantanamo Detainees Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_020
+    name: Guantanamo Detainees Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_021
+    name: Guantanamo Detainees Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_022
+    name: Guantanamo Detainees Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_023
+    name: Guantanamo Detainees Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_024
+    name: Guantanamo Detainees Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_025
+    name: Guantanamo Detainees Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_026
+    name: Guantanamo Detainees Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_027
+    name: Guantanamo Detainees Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_028
+    name: Guantanamo Detainees Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_029
+    name: Guantanamo Detainees Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_030
+    name: Guantanamo Detainees Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_031
+    name: Guantanamo Detainees Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_032
+    name: Guantanamo Detainees Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_033
+    name: Guantanamo Detainees Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_034
+    name: Guantanamo Detainees Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_035
+    name: Guantanamo Detainees Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_036
+    name: Guantanamo Detainees Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_037
+    name: Guantanamo Detainees Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_038
+    name: Guantanamo Detainees Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_039
+    name: Guantanamo Detainees Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_040
+    name: Guantanamo Detainees Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_041
+    name: Guantanamo Detainees Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_042
+    name: Guantanamo Detainees Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_043
+    name: Guantanamo Detainees Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_044
+    name: Guantanamo Detainees Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_045
+    name: Guantanamo Detainees Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_046
+    name: Guantanamo Detainees Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_047
+    name: Guantanamo Detainees Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_048
+    name: Guantanamo Detainees Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_049
+    name: Guantanamo Detainees Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_050
+    name: Guantanamo Detainees Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_051
+    name: Guantanamo Detainees Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_052
+    name: Guantanamo Detainees Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_053
+    name: Guantanamo Detainees Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_054
+    name: Guantanamo Detainees Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_055
+    name: Guantanamo Detainees Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_056
+    name: Guantanamo Detainees Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_057
+    name: Guantanamo Detainees Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_058
+    name: Guantanamo Detainees Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_059
+    name: Guantanamo Detainees Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_060
+    name: Guantanamo Detainees Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_061
+    name: Guantanamo Detainees Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_062
+    name: Guantanamo Detainees Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_063
+    name: Guantanamo Detainees Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_064
+    name: Guantanamo Detainees Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_065
+    name: Guantanamo Detainees Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_066
+    name: Guantanamo Detainees Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_067
+    name: Guantanamo Detainees Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_068
+    name: Guantanamo Detainees Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_069
+    name: Guantanamo Detainees Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_070
+    name: Guantanamo Detainees Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_071
+    name: Guantanamo Detainees Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_072
+    name: Guantanamo Detainees Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_073
+    name: Guantanamo Detainees Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_074
+    name: Guantanamo Detainees Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_075
+    name: Guantanamo Detainees Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_076
+    name: Guantanamo Detainees Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_077
+    name: Guantanamo Detainees Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_078
+    name: Guantanamo Detainees Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_079
+    name: Guantanamo Detainees Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_080
+    name: Guantanamo Detainees Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_081
+    name: Guantanamo Detainees Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_082
+    name: Guantanamo Detainees Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_083
+    name: Guantanamo Detainees Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_084
+    name: Guantanamo Detainees Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_085
+    name: Guantanamo Detainees Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_086
+    name: Guantanamo Detainees Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_087
+    name: Guantanamo Detainees Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_088
+    name: Guantanamo Detainees Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_089
+    name: Guantanamo Detainees Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_090
+    name: Guantanamo Detainees Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_091
+    name: Guantanamo Detainees Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_092
+    name: Guantanamo Detainees Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_093
+    name: Guantanamo Detainees Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_094
+    name: Guantanamo Detainees Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_095
+    name: Guantanamo Detainees Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_096
+    name: Guantanamo Detainees Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_097
+    name: Guantanamo Detainees Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_098
+    name: Guantanamo Detainees Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_099
+    name: Guantanamo Detainees Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_100
+    name: Guantanamo Detainees Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_101
+    name: Guantanamo Detainees Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_102
+    name: Guantanamo Detainees Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_103
+    name: Guantanamo Detainees Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_104
+    name: Guantanamo Detainees Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_105
+    name: Guantanamo Detainees Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_106
+    name: Guantanamo Detainees Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_107
+    name: Guantanamo Detainees Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_108
+    name: Guantanamo Detainees Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_109
+    name: Guantanamo Detainees Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_110
+    name: Guantanamo Detainees Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_111
+    name: Guantanamo Detainees Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_112
+    name: Guantanamo Detainees Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_113
+    name: Guantanamo Detainees Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_114
+    name: Guantanamo Detainees Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_115
+    name: Guantanamo Detainees Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_116
+    name: Guantanamo Detainees Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_117
+    name: Guantanamo Detainees Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_118
+    name: Guantanamo Detainees Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_119
+    name: Guantanamo Detainees Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_120
+    name: Guantanamo Detainees Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_121
+    name: Guantanamo Detainees Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_122
+    name: Guantanamo Detainees Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_123
+    name: Guantanamo Detainees Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_124
+    name: Guantanamo Detainees Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_125
+    name: Guantanamo Detainees Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_126
+    name: Guantanamo Detainees Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_127
+    name: Guantanamo Detainees Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_128
+    name: Guantanamo Detainees Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_129
+    name: Guantanamo Detainees Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_130
+    name: Guantanamo Detainees Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_131
+    name: Guantanamo Detainees Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_132
+    name: Guantanamo Detainees Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_133
+    name: Guantanamo Detainees Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_134
+    name: Guantanamo Detainees Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_135
+    name: Guantanamo Detainees Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_136
+    name: Guantanamo Detainees Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_137
+    name: Guantanamo Detainees Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_138
+    name: Guantanamo Detainees Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_139
+    name: Guantanamo Detainees Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_140
+    name: Guantanamo Detainees Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_141
+    name: Guantanamo Detainees Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_142
+    name: Guantanamo Detainees Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_143
+    name: Guantanamo Detainees Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_144
+    name: Guantanamo Detainees Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_145
+    name: Guantanamo Detainees Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_146
+    name: Guantanamo Detainees Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_147
+    name: Guantanamo Detainees Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_148
+    name: Guantanamo Detainees Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_149
+    name: Guantanamo Detainees Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_150
+    name: Guantanamo Detainees Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_151
+    name: Guantanamo Detainees Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_152
+    name: Guantanamo Detainees Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_153
+    name: Guantanamo Detainees Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_154
+    name: Guantanamo Detainees Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_155
+    name: Guantanamo Detainees Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_156
+    name: Guantanamo Detainees Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_157
+    name: Guantanamo Detainees Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_158
+    name: Guantanamo Detainees Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_159
+    name: Guantanamo Detainees Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_160
+    name: Guantanamo Detainees Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_161
+    name: Guantanamo Detainees Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_162
+    name: Guantanamo Detainees Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_163
+    name: Guantanamo Detainees Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_164
+    name: Guantanamo Detainees Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_165
+    name: Guantanamo Detainees Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_166
+    name: Guantanamo Detainees Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_167
+    name: Guantanamo Detainees Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_168
+    name: Guantanamo Detainees Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_169
+    name: Guantanamo Detainees Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_170
+    name: Guantanamo Detainees Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_171
+    name: Guantanamo Detainees Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_172
+    name: Guantanamo Detainees Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_173
+    name: Guantanamo Detainees Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_174
+    name: Guantanamo Detainees Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_175
+    name: Guantanamo Detainees Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_176
+    name: Guantanamo Detainees Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_177
+    name: Guantanamo Detainees Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_178
+    name: Guantanamo Detainees Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_179
+    name: Guantanamo Detainees Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_180
+    name: Guantanamo Detainees Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_181
+    name: Guantanamo Detainees Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_182
+    name: Guantanamo Detainees Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_183
+    name: Guantanamo Detainees Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_184
+    name: Guantanamo Detainees Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_185
+    name: Guantanamo Detainees Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_186
+    name: Guantanamo Detainees Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_187
+    name: Guantanamo Detainees Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_188
+    name: Guantanamo Detainees Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_189
+    name: Guantanamo Detainees Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_190
+    name: Guantanamo Detainees Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_191
+    name: Guantanamo Detainees Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_192
+    name: Guantanamo Detainees Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_193
+    name: Guantanamo Detainees Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_194
+    name: Guantanamo Detainees Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_195
+    name: Guantanamo Detainees Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_196
+    name: Guantanamo Detainees Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_197
+    name: Guantanamo Detainees Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_198
+    name: Guantanamo Detainees Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_199
+    name: Guantanamo Detainees Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_200
+    name: Guantanamo Detainees Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_201
+    name: Guantanamo Detainees Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_202
+    name: Guantanamo Detainees Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_203
+    name: Guantanamo Detainees Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_204
+    name: Guantanamo Detainees Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_205
+    name: Guantanamo Detainees Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_206
+    name: Guantanamo Detainees Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_207
+    name: Guantanamo Detainees Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_208
+    name: Guantanamo Detainees Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_209
+    name: Guantanamo Detainees Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_210
+    name: Guantanamo Detainees Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_211
+    name: Guantanamo Detainees Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_212
+    name: Guantanamo Detainees Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_213
+    name: Guantanamo Detainees Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_214
+    name: Guantanamo Detainees Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_215
+    name: Guantanamo Detainees Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_216
+    name: Guantanamo Detainees Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_217
+    name: Guantanamo Detainees Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_218
+    name: Guantanamo Detainees Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_219
+    name: Guantanamo Detainees Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_220
+    name: Guantanamo Detainees Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_221
+    name: Guantanamo Detainees Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_222
+    name: Guantanamo Detainees Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_223
+    name: Guantanamo Detainees Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_224
+    name: Guantanamo Detainees Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_225
+    name: Guantanamo Detainees Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_226
+    name: Guantanamo Detainees Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_227
+    name: Guantanamo Detainees Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_228
+    name: Guantanamo Detainees Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_229
+    name: Guantanamo Detainees Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_230
+    name: Guantanamo Detainees Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_231
+    name: Guantanamo Detainees Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_232
+    name: Guantanamo Detainees Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_233
+    name: Guantanamo Detainees Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_234
+    name: Guantanamo Detainees Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_235
+    name: Guantanamo Detainees Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_236
+    name: Guantanamo Detainees Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_237
+    name: Guantanamo Detainees Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_238
+    name: Guantanamo Detainees Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_239
+    name: Guantanamo Detainees Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_240
+    name: Guantanamo Detainees Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_241
+    name: Guantanamo Detainees Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_242
+    name: Guantanamo Detainees Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_243
+    name: Guantanamo Detainees Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_244
+    name: Guantanamo Detainees Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_245
+    name: Guantanamo Detainees Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_246
+    name: Guantanamo Detainees Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_247
+    name: Guantanamo Detainees Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_248
+    name: Guantanamo Detainees Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_249
+    name: Guantanamo Detainees Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_250
+    name: Guantanamo Detainees Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_251
+    name: Guantanamo Detainees Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gt_252
+    name: Guantanamo Detainees Skill 252
+    status: ACTIVE_SCAFFOLD
