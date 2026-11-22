@@ -1,0 +1,11 @@
+source_id,title,url,source_type,access_method,verification_status,notes
+SRC-0001,DoD Military Commissions,https://www.mc.mil/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0002,ACLU - Guantanamo,https://www.aclu.org/issues/national-security/detention/guantanamo-bay-detention-camp,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0003,UN OHCHR - Guantanamo,https://www.ohchr.org/en/press-releases/2022/01/guantanamo-bay-ugly-chapter-unrelenting-human-rights-violations-un-experts,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0004,UN Digital Library,https://digitallibrary.un.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0005,CourtListener,https://www.courtlistener.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0006,Justia,https://www.justia.com/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0007,Library of Congress,https://www.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0008,HathiTrust Digital Library,https://babel.hathitrust.org/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0009,Chronicling America LOC,https://chroniclingamerica.loc.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.
+SRC-0010,National Archives,https://www.archives.gov/,PUBLIC_WEB,direct_or_browser_fallback,PENDING_LEGAL_REVIEW,Pilot batch next8 source registry; verify before legal reliance.

@@ -1,0 +1,13 @@
+{
+  "url": "https://www.aclu.org/issues/national-security/detention/guantanamo-bay-detention-camp",
+  "final_url": "https://www.aclu.org/issues/national-security/detention/guantanamo-bay-detention-camp",
+  "title": "ACLU - Guantanamo",
+  "fetched_at": "2026-11-22T21:04:10.702744Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 58773,
+  "sha256": "7f10ff60b986febc2d9782ea8c1bd3ad51da12efb4a607a24a93a85bdcacf4bf",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "legal_review_status": "PENDING_LEGAL_REVIEW"
+}

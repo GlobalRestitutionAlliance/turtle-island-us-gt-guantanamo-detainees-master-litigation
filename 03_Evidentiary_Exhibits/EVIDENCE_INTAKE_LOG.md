@@ -25,3 +25,18 @@
 | 2026-11-22 | National_Security_Archive.html | https://nsarchive.gwu.edu/ | OpenCode/harvest | b91450c7e123b196eb4f27ed14bd7c7254bb16ac32df02ef99da83336c491685 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=68437 |
 | 2026-11-22 | CIA FOIA Reading Room | https://www.cia.gov/reading-room/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
 | 2026-11-22 | ICRC Detention Resources | https://www.icrc.org/en/war-and-law/detention | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | ACLU_-_Guantanamo.html | https://www.aclu.org/issues/national-security/detention/guantanamo-bay-detention-camp | OpenCode/harvest | 7f10ff60b986febc2d9782ea8c1bd3ad51da12efb4a607a24a93a85bdcacf4bf | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=58773 final_url=https://www.aclu.org/issues/national-security/detention/guantanamo-bay-detention-camp |
+
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 97d0fa47f0ba54b16499b9f3032dbbdd520b720c2d632fe8180837d11b6e004f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/collections/chronicling-america/ |
+
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 630526479d94fee99f80654e69d584582c8107033e4970c01e84c70583c37989 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=26733 final_url=https://digitallibrary.un.org/ |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | c18c7cbdb3e25684176911dd379dcf824ae4637a2fe64961afb2d9054f6bfb89 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60027 final_url=https://www.justia.com/ |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 4cd2eb67c8a05d7fd93a366797e8a70ce8c0692d2498e5a55aa8e6581b472665 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=52213 final_url=https://www.courtlistener.com/ |
+
+| 2026-11-22 | DoD_Military_Commissions_browser.html | https://www.mc.mil/ | OpenCode/browser-fallback | f739ef8147bdef25814d674d1e2d85cc0fb9b7358a7ee23a4c2262150f966698 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.mc.mil/ |
+
+| 2026-11-22 | UN_OHCHR_-_Guantanamo_browser.html | https://www.ohchr.org/en/press-releases/2022/01/guantanamo-bay-ugly-chapter-unrelenting-human-rights-violations-un-experts | OpenCode/browser-fallback | e995835ac36b7e2072213d7b1d28e67108333f32613fc8d66cab7162721ba5a7 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60081 final_url=https://www.ohchr.org/en/press-releases/2022/01/guantanamo-bay-ugly-chapter-unrelenting-human-rights-violations-un-experts |
