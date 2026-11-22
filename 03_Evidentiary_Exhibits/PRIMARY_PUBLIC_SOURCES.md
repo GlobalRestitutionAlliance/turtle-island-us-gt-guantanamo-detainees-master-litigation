@@ -1,8 +1,23 @@
 # Primary Public Sources
 
+
 - [US National Archives](https://www.archives.gov/)
 - [Library of Congress](https://www.loc.gov/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
 - [DOJ Civil Rights Division](https://www.justice.gov/crt)
 - [UN OHCHR](https://www.ohchr.org/)
 - [CourtListener](https://www.courtlistener.com/)
+- [Chronicling America (LOC Newspapers)](https://chroniclingamerica.loc.gov/)
+- [HathiTrust Digital Library](https://www.hathitrust.org/)
+- [Internet Archive](https://archive.org/)
+- [FOIA.gov](https://www.foia.gov/)
+- [NARA FOIA](https://www.archives.gov/foia)
+- [UN Digital Library](https://digitallibrary.un.org/)
+- [Justia](https://www.justia.com/)
+- [WorldCat](https://search.worldcat.org/)
+- [Wikisource](https://en.wikisource.org/)
+- [US Govt Publishing Office](https://www.govinfo.gov/)
+- [ACLU FOIA Torture Database](https://www.aclu.org/issues/national-security/torture)
+- [National Security Archive](https://nsarchive.gwu.edu/)
+- [CIA FOIA Reading Room](https://www.cia.gov/reading-room/)
+- [ICRC Detention Resources](https://www.icrc.org/en/war-and-law/detention)
